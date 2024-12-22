@@ -1,0 +1,28 @@
+#map {
+    height: 98vh;
+}
+.click {
+    clear: both;
+    float: left;
+    margin-top: 2px;
+    margin-left: 10px;
+    background-color: white;
+    font-size: 1.3rem;
+    border: 2px solid rgba(0, 0, 0, 0.2);
+    border-radius: 20%;
+    cursor: pointer;
+    pointer-events: auto;
+    padding: 2px;
+    z-index: 1000;
+}
+
+.click:hover {
+    background-color: #f4f4f4;
+}
+.editMode {
+    background-color: red !important;
+}
+
+#edit {
+    margin-top: 20px;
+}
