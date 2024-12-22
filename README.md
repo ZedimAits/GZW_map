@@ -4,9 +4,9 @@
 GZW Map is an interactive tool designed to enhance your experience with Gray Zone Warfare. 
 
 ### Features
-- **Edit Mode** (✏️): Add markers and name them using the 'Input Menu.'
+- **Edit Mode** (✏️): Add markers and name them using the 'Text Input.'
 - **Delete Mode** (❌): Delete markers by clicking on them.
-- **Color Mode** (🎨): Change the color of markers. When you click a marker, a text input will appear where you can specify a color value (0–360).
+- **Color Mode** (🎨): Change the color of markers. When you click a marker, the 'Text Input' will appear where you can specify a color value (0–360).
 
 ### Persistent Markers
 Markers are saved in your browser's local storage. If the browser's memory isn't cleared (which is typically the case), your markers will automatically reload when you revisit the site. 
