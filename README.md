@@ -19,8 +19,4 @@ Markers are saved in your browser's local storage. If the browser's memory isn't
   - The file should contain a valid JSON string representing your markers. The map will be updated accordingly.  
 
 ### Live Website  
-Explore the interactive map here: [GZW Map](https://gzwmap.netlify.app)  
-
----
-
-Let me know if you'd like additional changes!
+Explore the interactive map here: [GZW Map](https://gzwmap.netlify.app)
